@@ -37,7 +37,7 @@ Knight's vertical position : (y)
 To run this project, run
 
 ```bash
-  g++ KnightsTour.cs
+  dotnet run KnightsTour.cs
 ```
 
 <!-- Roadmap -->
