@@ -38,7 +38,7 @@ void DFS(int[,] board, bool[,] visit, int i, int j)
         }
     }
 }
-// I'M NOT HERE
+// I'M HERE
 bool isOK(int[,] board, bool[,] visit, int i, int j)
 {
     if (i >= 0 && j >= 0 && i < 8 && j < 8 && visit[i, j] is false)
